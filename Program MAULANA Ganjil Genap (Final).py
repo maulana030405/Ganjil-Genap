@@ -1,4 +1,4 @@
-# Tugas Program Ganjil Genap MAULANA MUHAMMAD ALI Kelas XI Program 2 Tahun MAN IC GORONTALO
+# Tugas Program Ganjil Genap MAULANA
 # Semoga bisa bermanfaat dalam Pembelajaran Informatika :)
 
 # while True digunakan untuk mengulang (looping) program sampai memilih [4] Berhenti
